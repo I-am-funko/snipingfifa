@@ -1,4 +1,6 @@
+___________________________________________________________________________________________________________________
 [IMPORTANT] = *You can get BANNED for using a bot for fifa sniping: the creator ISN'T responsible for you actions!*
+___________________________________________________________________________________________________________________
 
 This is a sniping bot for fifa web-app if you wouldn't like to spend on futinator premium!
 
