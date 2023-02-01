@@ -1,2 +1,1 @@
-# snipingfifa
-it's a simple sniper for fifa companion, having the futinator extension
+I am NOT responsible for what you are doing with this!
